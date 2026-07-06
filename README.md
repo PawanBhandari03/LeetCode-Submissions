@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
