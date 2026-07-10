@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class Q41_BinaryToDecimal {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int binary = sc.nextInt();
+        int decimal = 0;
+        int power = 0;
+
+        while(binary > 0){
+            int lastdigit = binary % 10;
+            decimal += lastdigit * (int)Math.pow(2,power);
+            power ++;
+
+            binary = binary / 10;
+        }
+        System.out.println(decimal);
+    }
+}
