@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/PawanBhandari03/LeetCode-Submissions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
